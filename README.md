@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Huzaifa 👋
 
 ## 🚀 About Me
 I'm a frontend developer based in the UAE, specializing in building beautiful and functional web applications. 
-
+<!--
 ## 🔧 Technologies & Tools
 - Frontend: React.js, Next.js, Tailwind CSS, Material-UI
 - Backend: Node.js, Express.js
@@ -22,3 +22,4 @@ A family budget tracking and expense analysis web application to help families m
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 - [Email](mailto:your-email@example.com)
+- -->
