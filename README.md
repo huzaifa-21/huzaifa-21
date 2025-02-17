@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**huzaifa-21/huzaifa-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a frontend developer based in the UAE, specializing in building beautiful and functional web applications. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Frontend: React.js, Next.js, Tailwind CSS, Material-UI
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Firebase, Auth0
+- State Management: Redux
+- Tools: Git, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Looking for Opportunities
+I'm currently looking for a job or internship opportunity as a frontend developer. Feel free to reach out if you have any openings!
+
+## 📊 Featured Project
+### [FinFam](https://github.com/your-username/FinFam)
+A family budget tracking and expense analysis web application to help families manage their income and budget effectively. Built using the MERN Stack with Chart.js/Recharts for data visualization.
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
+- [Email](mailto:your-email@example.com)
