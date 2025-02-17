@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 I'm a frontend developer based in the UAE, specializing in building beautiful and functional web applications. 
-<!--
 ## 🔧 Technologies & Tools
 - Frontend: React.js, Next.js, Tailwind CSS, Material-UI
 - Backend: Node.js, Express.js
@@ -13,6 +12,7 @@ I'm a frontend developer based in the UAE, specializing in building beautiful an
 
 ## 💼 Looking for Opportunities
 I'm currently looking for a job or internship opportunity as a frontend developer. Feel free to reach out if you have any openings!
+<!--
 
 ## 📊 Featured Project
 ### [FinFam](https://github.com/your-username/FinFam)
