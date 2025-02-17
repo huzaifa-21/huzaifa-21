@@ -3,13 +3,6 @@
 ## 🚀 About Me
 I'm a frontend developer based in the UAE, specializing in building beautiful and functional web applications. 
 
-## 🛠 Tech Stack
-![React]
-![Next.js]
-![Node.js]
-![MongoDB]
-![Tailwind CSS]
-
 ## 🔧 Technologies & Tools
 - Frontend: React.js, Next.js, Tailwind CSS, Material-UI
 - Backend: Node.js, Express.js
